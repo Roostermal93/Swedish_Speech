@@ -1,5 +1,5 @@
 {
-    "count": 6,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Swedish/f36d0569-4c90-4323-b018-1e0ba98640c0_sw_Male.mp4"
+        },
+        {
+            "id": "d9c70507-b781-48da-8da7-94c3d4db8dc3",
+            "collectionId": "Swedish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Swedish/d9c70507-b781-48da-8da7-94c3d4db8dc3_sw_Male.mp4"
         },
         {
             "id": "3deb12b7-8f8a-4cb2-8622-44f6152421f3",
@@ -37,6 +44,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Swedish/db3beb96-08b5-4b44-949b-5ee347597e6a_sw_Female.mp4"
+        },
+        {
+            "id": "81a6ca70-94e7-45a1-a253-757b445e8a67",
+            "collectionId": "Swedish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Swedish/81a6ca70-94e7-45a1-a253-757b445e8a67_sw_Male.mp4"
         },
         {
             "id": "610beb2f-19a5-4924-aeb9-1bf942e456e4",
